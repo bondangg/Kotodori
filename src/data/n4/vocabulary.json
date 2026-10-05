@@ -15567,5 +15567,43 @@
     "homophones": [],
     "relatedWords": [],
     "examples": []
+  },
+  {
+    "id": "n4_0792",
+    "kanji": "以前から",
+    "kana": "いぜんから",
+    "meanings": {
+      "vi": "từ hồi trước",
+      "en": "since before, for a long time"
+    },
+    "pos": "expression",
+    "verbGroup": null,
+    "adjType": null,
+    "jlptLevel": "N4",
+    "category": "Khác",
+    "chapter": 25,
+    "tags": [],
+    "homophones": [],
+    "relatedWords": [],
+    "examples": []
+  },
+  {
+    "id": "n4_0793",
+    "kanji": "〜かな（あ）？",
+    "kana": "〜かな（あ）",
+    "meanings": {
+      "vi": "có khi mình sẽ... (thể hiện ý định có tính chắc chắn thấp của người nói)",
+      "en": "I wonder if I should... (expressing a tentative intention)"
+    },
+    "pos": "expression",
+    "verbGroup": null,
+    "adjType": null,
+    "jlptLevel": "N4",
+    "category": "Khác",
+    "chapter": 25,
+    "tags": [],
+    "homophones": [],
+    "relatedWords": [],
+    "examples": []
   }
 ]
