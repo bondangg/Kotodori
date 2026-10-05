@@ -22278,5 +22278,616 @@
         "en": "Maybe I'll buy a new bag."
       }
     ]
+  },
+  {
+    "id": "n4_0794",
+    "kanji": "再来週",
+    "kana": "さらいしゅう",
+    "meanings": {
+      "vi": "Tuần sau nữa",
+      "en": "the week after next"
+    },
+    "pos": "noun",
+    "verbGroup": null,
+    "adjType": null,
+    "jlptLevel": "N4",
+    "category": "Khác",
+    "chapter": 25,
+    "tags": [],
+    "homophones": [],
+    "relatedWords": [],
+    "examples": [
+      {
+        "ja": "再来週、新年会があります。",
+        "kana": "さらいしゅう、しんねんかいがあります。",
+        "vi": "Tuần sau nữa có tiệc đầu năm.",
+        "en": "There is a New Year party the week after next."
+      }
+    ]
+  },
+  {
+    "id": "n4_0795",
+    "kanji": "新年会",
+    "kana": "しんねんかい",
+    "meanings": {
+      "vi": "Tiệc đầu năm",
+      "en": "New Year party"
+    },
+    "pos": "noun",
+    "verbGroup": null,
+    "adjType": null,
+    "jlptLevel": "N4",
+    "category": "Khác",
+    "chapter": 25,
+    "tags": [],
+    "homophones": [],
+    "relatedWords": [],
+    "examples": [
+      {
+        "ja": "会社の新年会に参加します。",
+        "kana": "かいしゃのしんねんかいにさんかします。",
+        "vi": "Tôi tham gia tiệc đầu năm của công ty.",
+        "en": "I will attend the company's New Year party."
+      }
+    ]
+  },
+  {
+    "id": "n4_0796",
+    "kanji": "石けん",
+    "kana": "せっけん",
+    "meanings": {
+      "vi": "Xà phòng, xà bông",
+      "en": "soap"
+    },
+    "pos": "noun",
+    "verbGroup": null,
+    "adjType": null,
+    "jlptLevel": "N4",
+    "category": "Khác",
+    "chapter": 25,
+    "tags": [],
+    "homophones": [],
+    "relatedWords": [],
+    "examples": [
+      {
+        "ja": "石けんで手をよく洗ってください。",
+        "kana": "せっけんでてをよくあらってください。",
+        "vi": "Hãy rửa tay kỹ bằng xà phòng.",
+        "en": "Please wash your hands well with soap."
+      }
+    ],
+    "pitch": 0
+  },
+  {
+    "id": "n4_0797",
+    "kanji": "睡眠",
+    "kana": "すいみん",
+    "meanings": {
+      "vi": "Giấc ngủ",
+      "en": "sleep"
+    },
+    "pos": "noun",
+    "verbGroup": null,
+    "adjType": null,
+    "jlptLevel": "N4",
+    "category": "Khác",
+    "chapter": 25,
+    "tags": [],
+    "homophones": [],
+    "relatedWords": [
+      "n4_0799",
+      "n4_0798"
+    ],
+    "examples": [
+      {
+        "ja": "十分な睡眠をとることが大事です。",
+        "kana": "じゅうぶんなすいみんをとることがだいじです。",
+        "vi": "Điều quan trọng là phải ngủ đủ giấc.",
+        "en": "It is important to get enough sleep."
+      }
+    ],
+    "pitch": 0
+  },
+  {
+    "id": "n4_0798",
+    "kanji": "不足",
+    "kana": "ふそく",
+    "meanings": {
+      "vi": "Thiếu, không đủ",
+      "en": "shortage, insufficiency"
+    },
+    "pos": "noun",
+    "verbGroup": null,
+    "adjType": null,
+    "jlptLevel": "N4",
+    "category": "Khác",
+    "chapter": 25,
+    "tags": [],
+    "homophones": [],
+    "relatedWords": [
+      "n4_0799",
+      "n4_0800"
+    ],
+    "examples": [
+      {
+        "ja": "ビタミン不足に気をつけてください。",
+        "kana": "ビタミンぶそくにきをつけてください。",
+        "vi": "Hãy chú ý tránh thiếu vitamin.",
+        "en": "Please be careful about vitamin deficiency."
+      }
+    ],
+    "pitch": 0
+  },
+  {
+    "id": "n4_0799",
+    "kanji": "睡眠不足",
+    "kana": "すいみんぶそく",
+    "meanings": {
+      "vi": "Thiếu ngủ",
+      "en": "sleep deprivation, lack of sleep"
+    },
+    "pos": "noun",
+    "verbGroup": null,
+    "adjType": null,
+    "jlptLevel": "N4",
+    "category": "Khác",
+    "chapter": 25,
+    "tags": [],
+    "homophones": [],
+    "relatedWords": [
+      "n4_0797",
+      "n4_0798"
+    ],
+    "examples": [
+      {
+        "ja": "睡眠不足で、頭が痛いです。",
+        "kana": "すいみんぶそくで、あたまがいたいです。",
+        "vi": "Do thiếu ngủ nên tôi bị đau đầu.",
+        "en": "I have a headache from lack of sleep."
+      }
+    ]
+  },
+  {
+    "id": "n4_0800",
+    "kanji": "運動不足",
+    "kana": "うんどうぶそく",
+    "meanings": {
+      "vi": "Thiếu vận động",
+      "en": "lack of exercise"
+    },
+    "pos": "noun",
+    "verbGroup": null,
+    "adjType": null,
+    "jlptLevel": "N4",
+    "category": "Khác",
+    "chapter": 25,
+    "tags": [],
+    "homophones": [],
+    "relatedWords": [
+      "n4_0798"
+    ],
+    "examples": [
+      {
+        "ja": "最近、運動不足なので、体が重いです。",
+        "kana": "さいきん、うんどうぶそくなので、からだがおもいです。",
+        "vi": "Gần đây thiếu vận động nên người tôi nặng nề.",
+        "en": "Recently I lack exercise, so my body feels heavy."
+      }
+    ]
+  },
+  {
+    "id": "n4_0801",
+    "kanji": "ネクタイ",
+    "kana": "ネクタイ",
+    "meanings": {
+      "vi": "Cà-vạt",
+      "en": "necktie, tie"
+    },
+    "pos": "noun",
+    "verbGroup": null,
+    "adjType": null,
+    "jlptLevel": "N4",
+    "category": "Khác",
+    "chapter": 25,
+    "tags": [],
+    "homophones": [],
+    "relatedWords": [],
+    "examples": [
+      {
+        "ja": "今日はネクタイをしていきます。",
+        "kana": "きょうはネクタイをしていきます。",
+        "vi": "Hôm nay tôi sẽ đi với cà-vạt.",
+        "en": "I will wear a tie today."
+      }
+    ],
+    "pitch": 1
+  },
+  {
+    "id": "n4_0802",
+    "kanji": "テーマ",
+    "kana": "テーマ",
+    "meanings": {
+      "vi": "Chủ đề",
+      "en": "theme, topic"
+    },
+    "pos": "noun",
+    "verbGroup": null,
+    "adjType": null,
+    "jlptLevel": "N4",
+    "category": "Khác",
+    "chapter": 25,
+    "tags": [],
+    "homophones": [],
+    "relatedWords": [],
+    "examples": [
+      {
+        "ja": "今日のパーティーのテーマは何ですか。",
+        "kana": "きょうのパーティーのテーマはなんですか。",
+        "vi": "Chủ đề của bữa tiệc hôm nay là gì?",
+        "en": "What is the theme of today's party?"
+      }
+    ],
+    "pitch": 1
+  },
+  {
+    "id": "n4_0803",
+    "kanji": "スパゲッティ",
+    "kana": "スパゲッティ",
+    "meanings": {
+      "vi": "Mỳ Ý (spaghetti)",
+      "en": "spaghetti"
+    },
+    "pos": "noun",
+    "verbGroup": null,
+    "adjType": null,
+    "jlptLevel": "N4",
+    "category": "Khác",
+    "chapter": 25,
+    "tags": [],
+    "homophones": [],
+    "relatedWords": [
+      "n4_0804"
+    ],
+    "examples": [
+      {
+        "ja": "昼ごはんにスパゲッティを食べました。",
+        "kana": "ひるごはんにスパゲッティをたべました。",
+        "vi": "Tôi ăn mỳ Ý vào bữa trưa.",
+        "en": "I had spaghetti for lunch."
+      }
+    ]
+  },
+  {
+    "id": "n4_0804",
+    "kanji": "パスタ",
+    "kana": "パスタ",
+    "meanings": {
+      "vi": "Mì pasta",
+      "en": "pasta"
+    },
+    "pos": "noun",
+    "verbGroup": null,
+    "adjType": null,
+    "jlptLevel": "N4",
+    "category": "Khác",
+    "chapter": 25,
+    "tags": [],
+    "homophones": [],
+    "relatedWords": [
+      "n4_0803"
+    ],
+    "examples": [
+      {
+        "ja": "このレストランはパスタが有名です。",
+        "kana": "このレストランはパスタがゆうめいです。",
+        "vi": "Nhà hàng này nổi tiếng về mì pasta.",
+        "en": "This restaurant is famous for its pasta."
+      }
+    ]
+  },
+  {
+    "id": "n4_0805",
+    "kanji": "ステーキ",
+    "kana": "ステーキ",
+    "meanings": {
+      "vi": "Steak, bít-tết",
+      "en": "steak"
+    },
+    "pos": "noun",
+    "verbGroup": null,
+    "adjType": null,
+    "jlptLevel": "N4",
+    "category": "Khác",
+    "chapter": 25,
+    "tags": [],
+    "homophones": [],
+    "relatedWords": [],
+    "examples": [
+      {
+        "ja": "誕生日にステーキを食べに行きました。",
+        "kana": "たんじょうびにステーキをたべにいきました。",
+        "vi": "Tôi đi ăn bít-tết vào ngày sinh nhật.",
+        "en": "I went to eat steak on my birthday."
+      }
+    ],
+    "pitch": 1
+  },
+  {
+    "id": "n4_0806",
+    "kanji": "サンドイッチ",
+    "kana": "サンドイッチ",
+    "meanings": {
+      "vi": "Bánh mì kẹp (xăng-uých)",
+      "en": "sandwich"
+    },
+    "pos": "noun",
+    "verbGroup": null,
+    "adjType": null,
+    "jlptLevel": "N4",
+    "category": "Khác",
+    "chapter": 25,
+    "tags": [],
+    "homophones": [],
+    "relatedWords": [],
+    "examples": [
+      {
+        "ja": "朝ごはんにサンドイッチを食べます。",
+        "kana": "あさごはんにサンドイッチをたべます。",
+        "vi": "Tôi ăn bánh mì kẹp vào bữa sáng.",
+        "en": "I eat a sandwich for breakfast."
+      }
+    ]
+  },
+  {
+    "id": "n4_0807",
+    "kanji": "冷たい",
+    "kana": "つめたい",
+    "meanings": {
+      "vi": "Lạnh (khi sờ, chạm vào)",
+      "en": "cold (to the touch)"
+    },
+    "pos": "adj-i",
+    "verbGroup": null,
+    "adjType": "i",
+    "jlptLevel": "N4",
+    "category": "Khác",
+    "chapter": 25,
+    "tags": [],
+    "homophones": [],
+    "relatedWords": [],
+    "examples": [
+      {
+        "ja": "この水は冷たいですね。",
+        "kana": "このみずはつめたいですね。",
+        "vi": "Nước này lạnh nhỉ.",
+        "en": "This water is cold, isn't it."
+      },
+      {
+        "ja": "冷たいジュースを飲みたいです。",
+        "kana": "つめたいジュースをのみたいです。",
+        "vi": "Tôi muốn uống nước ép lạnh.",
+        "en": "I want to drink cold juice."
+      }
+    ],
+    "pitch": 4
+  },
+  {
+    "id": "n4_0808",
+    "kanji": "急",
+    "kana": "きゅう",
+    "meanings": {
+      "vi": "Đột ngột, đột nhiên",
+      "en": "sudden, urgent"
+    },
+    "pos": "adj-na",
+    "verbGroup": null,
+    "adjType": "na",
+    "jlptLevel": "N4",
+    "category": "Khác",
+    "chapter": 25,
+    "tags": [],
+    "homophones": [],
+    "relatedWords": [],
+    "examples": [
+      {
+        "ja": "急な用事ができて、行けなくなりました。",
+        "kana": "きゅうなようじができて、いけなくなりました。",
+        "vi": "Có việc đột xuất nên tôi không đi được nữa.",
+        "en": "Something urgent came up, so I can no longer go."
+      }
+    ],
+    "pitch": 1
+  },
+  {
+    "id": "n4_0809",
+    "kanji": "大事",
+    "kana": "だいじ",
+    "meanings": {
+      "vi": "Quan trọng",
+      "en": "important"
+    },
+    "pos": "adj-na",
+    "verbGroup": null,
+    "adjType": "na",
+    "jlptLevel": "N4",
+    "category": "Khác",
+    "chapter": 25,
+    "tags": [],
+    "homophones": [],
+    "relatedWords": [],
+    "examples": [
+      {
+        "ja": "健康が大事だと思います。",
+        "kana": "けんこうがだいじだとおもいます。",
+        "vi": "Tôi nghĩ sức khỏe là quan trọng.",
+        "en": "I think health is important."
+      },
+      {
+        "ja": "大事なものをなくしました。",
+        "kana": "だいじなものをなくしました。",
+        "vi": "Tôi đã làm mất thứ quan trọng.",
+        "en": "I lost something important."
+      }
+    ],
+    "pitch": 1
+  },
+  {
+    "id": "n4_0810",
+    "kanji": "決める",
+    "kana": "きめる",
+    "meanings": {
+      "vi": "Quyết định",
+      "en": "to decide"
+    },
+    "pos": "verb-group2",
+    "verbGroup": 2,
+    "adjType": null,
+    "jlptLevel": "N4",
+    "category": "Động từ",
+    "chapter": 25,
+    "tags": [],
+    "homophones": [],
+    "relatedWords": [],
+    "examples": [
+      {
+        "ja": "どこに行くか、まだ決めていません。",
+        "kana": "どこにいくか、まだきめていません。",
+        "vi": "Tôi vẫn chưa quyết định đi đâu.",
+        "en": "I haven't decided where to go yet."
+      },
+      {
+        "ja": "新年の目標を決めました。",
+        "kana": "しんねんのもくひょうをきめました。",
+        "vi": "Tôi đã quyết định mục tiêu năm mới.",
+        "en": "I decided on my New Year's resolution."
+      }
+    ],
+    "pitch": 2
+  },
+  {
+    "id": "n4_0811",
+    "kanji": "禁煙",
+    "kana": "きんえん",
+    "meanings": {
+      "vi": "Cấm hút thuốc lá; bỏ thuốc lá",
+      "en": "no smoking; quitting smoking"
+    },
+    "pos": "noun",
+    "verbGroup": null,
+    "adjType": null,
+    "jlptLevel": "N4",
+    "category": "Khác",
+    "chapter": 25,
+    "tags": [],
+    "homophones": [],
+    "relatedWords": [],
+    "examples": [
+      {
+        "ja": "この建物は禁煙です。",
+        "kana": "このたてものはきんえんです。",
+        "vi": "Tòa nhà này cấm hút thuốc.",
+        "en": "This building is a no-smoking zone."
+      },
+      {
+        "ja": "新年から禁煙しようと思っています。",
+        "kana": "しんねんからきんえんしようとおもっています。",
+        "vi": "Tôi đang nghĩ sẽ bỏ thuốc từ năm mới.",
+        "en": "I'm thinking of quitting smoking from the New Year."
+      }
+    ],
+    "pitch": 0
+  },
+  {
+    "id": "n4_0812",
+    "kanji": "早起き",
+    "kana": "はやおき",
+    "meanings": {
+      "vi": "Dậy sớm",
+      "en": "early rising, waking up early"
+    },
+    "pos": "noun",
+    "verbGroup": null,
+    "adjType": null,
+    "jlptLevel": "N4",
+    "category": "Khác",
+    "chapter": 25,
+    "tags": [],
+    "homophones": [],
+    "relatedWords": [],
+    "examples": [
+      {
+        "ja": "毎朝早起きをする習慣があります。",
+        "kana": "まいあさはやおきをするしゅうかんがあります。",
+        "vi": "Tôi có thói quen dậy sớm mỗi sáng.",
+        "en": "I have a habit of getting up early every morning."
+      },
+      {
+        "ja": "早起きは三文の徳と言います。",
+        "kana": "はやおきはさんもんのとくといいます。",
+        "vi": "Người ta nói dậy sớm có lợi (ích ba xu).",
+        "en": "They say early rising is worth three mon (early bird catches the worm)."
+      }
+    ],
+    "pitch": 3
+  },
+  {
+    "id": "n4_0813",
+    "kanji": "賛成",
+    "kana": "さんせい",
+    "meanings": {
+      "vi": "Tán thành",
+      "en": "agreement, approval"
+    },
+    "pos": "noun",
+    "verbGroup": null,
+    "adjType": null,
+    "jlptLevel": "N4",
+    "category": "Khác",
+    "chapter": 25,
+    "tags": [],
+    "homophones": [],
+    "relatedWords": [],
+    "examples": [
+      {
+        "ja": "その意見に賛成します。",
+        "kana": "そのいけんにさんせいします。",
+        "vi": "Tôi tán thành ý kiến đó.",
+        "en": "I agree with that opinion."
+      },
+      {
+        "ja": "賛成の人は手を挙げてください。",
+        "kana": "さんせいのひとはてをあげてください。",
+        "vi": "Người tán thành xin giơ tay.",
+        "en": "Those who agree, please raise your hand."
+      }
+    ],
+    "pitch": 0
+  },
+  {
+    "id": "n4_0814",
+    "kanji": "離婚",
+    "kana": "りこん",
+    "meanings": {
+      "vi": "Ly hôn",
+      "en": "divorce"
+    },
+    "pos": "noun",
+    "verbGroup": null,
+    "adjType": null,
+    "jlptLevel": "N4",
+    "category": "Khác",
+    "chapter": 25,
+    "tags": [],
+    "homophones": [],
+    "relatedWords": [],
+    "examples": [
+      {
+        "ja": "二人は去年離婚しました。",
+        "kana": "ふたりはきょねんりこんしました。",
+        "vi": "Hai người đã ly hôn năm ngoái.",
+        "en": "The two of them divorced last year."
+      }
+    ],
+    "pitch": 0
   }
 ]
